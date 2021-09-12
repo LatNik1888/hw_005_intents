@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">hw_005</string>
+    <string name="textChanged">SecondThemeActivity</string>
+    <string name="changeButon">Change Theme</string>
 </resources>
